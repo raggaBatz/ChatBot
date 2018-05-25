@@ -1,0 +1,31 @@
+0-1-0-Esta interesado en informacion de seguro para vehiculo?
+1-2-Y-Esta interesado en el plan particular del seguro vehicular?
+1-3-N-Esta interesado en el plan particular del seguro medico?
+2-4-Y-El plan vehicular particular es para un vehiculo personal?
+2-5-N-El plan vehicular empresarial es para un vehiculo personal?
+3-6-Y-El plan medico particular deseado es individual?
+3-7-N-El plan medico empresarial deseado es individual?
+4-8-Y-Desea el precio en cuotas del seguro vehicular particular para vehiculo personal?
+4-9-N-Desea el precio en cuotas del seguro vehicular particular de vehiculo comercial?
+5-10-Y-Desea el precio en cuotas del seguro vehicular empresarial para vehiculo personal?
+5-11-N-Desea el precio en cuotas del seguro vehicular empresarial de vehiculo comercial?
+6-12-Y-Desea el precio en cuotas del plan medico particular individual?
+6-13-N-Desea el precio en cuotas del plan medico particular familiar?
+7-14-Y-Desea el precio en cuotas del plan medico empresarial individual?
+7-15-N-Desea el precio en cuotas del plan medico empresarial familiar?
+8-16-Y-El costo del seguro vehicular particular de vehiculo personal en cuotas es de Q250.00 por 12 meses(Q3000.00 anuales)
+8-17-N-El costo del seguro vehicular particular de vehiculo personal al contado es de Q2850.00
+9-18-Y-El costo del seguro vehicular particular de vehiculo comercial en cuotas es de Q235.00 por 12 meses(Q2820.00 anuales)
+9-19-N-El costo del seguro vehicular particular de vehiculo comercial al contado es de Q2750.00
+10-20-Y-El costo del seguro vehicular particular de vehiculo personal en cuotas es de Q235.00 por 12 meses(Q2820.00 anuales)
+10-21-N-El costo del seguro vehicular particular de vehiculo personal al contado es de Q2750.00
+11-22-Y-El costo del seguro vehicular particular de vehiculo comercial en cuotas es de Q225.00 por 12 meses(Q2700.00 anuales)
+11-23-N-El costo del seguro vehicular particular de vehiculo comercial al contado es de Q2500.00
+12-24-Y-El costo del seguro medico particular individual en cuotas es de Q350.00 por 12 meses(Q4200.00 anuales)
+12-25-N-El costo del seguro medico particular individual al contado es de Q3900.00
+13-26-Y-El costo del seguro medico particular familiar en cuotas es de Q600.00 por 12 meses(Q7200.00 anuales)
+13-27-N-El costo del seguro medico particular familiar al contado es de Q6600.00
+14-28-Y-El costo del seguro medico empresarial individual en cuotas es de Q300.00 por 12 meses(Q3600.00 anuales)
+14-29-N-El costo del seguro medico empresarial individual al contado es de Q3300.00
+15-30-Y-El costo del seguro medico empresarial familiar en cuotas es de Q550.00 por 12 meses(Q6600.00 anuales)
+15-30-N-El costo del seguro medico empresarial familiar al contado es de Q6000.00

@@ -1,0 +1,286 @@
+**************************************************************************************************
+                            BIENVENIDO AL SISTEMA DE LA ASEGURADORA GENERAL
+**************************************************************************************************
+Agente: Es blanco? (responda "Si" o "No")
+si
+Agente: Es gay o no? (responda "Si" o "No")
+si
+Es Alejandro
+Salir? (responda "Si" or "No")
+no
+**************************************************************************************************
+                            BIENVENIDO AL SISTEMA DE LA ASEGURADORA GENERAL
+**************************************************************************************************
+Agente: Es blanco? (responda "Si" o "No")
+no
+Agente: Usa lentes? (responda "Si" o "No")
+no
+Es Dhixon
+Salir? (responda "Si" or "No")
+no
+**************************************************************************************************
+                            BIENVENIDO AL SISTEMA DE LA ASEGURADORA GENERAL
+**************************************************************************************************
+Agente: Es blanco? (responda "Si" o "No")
+no
+Agente: Usa lentes? (responda "Si" o "No")
+si
+Es Batz
+Salir? (responda "Si" or "No")
+no
+**************************************************************************************************
+                            BIENVENIDO AL SISTEMA DE LA ASEGURADORA GENERAL
+**************************************************************************************************
+Agente: Es blanco? (responda "Si" o "No")
+no
+Agente: Usa lentes? (responda "Si" o "No")
+no
+Es Dhixon
+Salir? (responda "Si" or "No")
+no
+**************************************************************************************************
+                            BIENVENIDO AL SISTEMA DE LA ASEGURADORA GENERAL
+**************************************************************************************************
+Agente: Es blanco? (responda "Si" o "No")
+si
+Agente: Es gay o no? (responda "Si" o "No")
+no
+Agente: Es alto? (responda "Si" o "No")
+no
+Es Jorge
+Salir? (responda "Si" or "No")
+no
+**************************************************************************************************
+                            BIENVENIDO AL SISTEMA DE LA ASEGURADORA GENERAL
+**************************************************************************************************
+Agente: Es blanco? (responda "Si" o "No")
+si
+Agente: Es gay o no? (responda "Si" o "No")
+si
+Es Alejandro
+Salir? (responda "Si" or "No")
+no
+**************************************************************************************************
+                            BIENVENIDO AL SISTEMA DE LA ASEGURADORA GENERAL
+**************************************************************************************************
+Agente: Es blanco? (responda "Si" o "No")
+si
+Agente: Es gay o no? (responda "Si" o "No")
+no
+Agente: Es alto? (responda "Si" o "No")
+si
+Es Marco
+Salir? (responda "Si" or "No")
+si
+**************************************************************************************************
+                            BIENVENIDO AL SISTEMA DE LA ASEGURADORA GENERAL
+**************************************************************************************************
+Agente: Esta interesado en informacion de seguro de vehiculo? (responda "Si" o "No")
+si
+Agente: Del seguro vehiculo esta interesado en el plan particular? (responda "Si" o "No")
+si
+Agente: El plan vehicular particular es para un vehiculo personal? (responda "Si" o "No")
+si
+Agente: Desea la informacion del seguro vehicular particular de vehiculo personal para cuotas? (responda "Si" o "No")
+si
+El costo del seguro vehicular particular de vehiculo personal en cuotas es de Q250.00 por 12 meses(Q3000.00 anuales)
+Salir? (responda "Si" or "No")
+no
+**************************************************************************************************
+                            BIENVENIDO AL SISTEMA DE LA ASEGURADORA GENERAL
+**************************************************************************************************
+Agente: Esta interesado en informacion de seguro de vehiculo? (responda "Si" o "No")
+si
+Agente: Del seguro vehiculo esta interesado en el plan particular? (responda "Si" o "No")
+si
+Agente: El plan vehicular particular es para un vehiculo personal? (responda "Si" o "No")
+si
+Agente: Desea la informacion del seguro vehicular particular de vehiculo personal para cuotas? (responda "Si" o "No")
+no
+El costo del seguro vehicular particular de vehiculo personal al contado es de Q2750.00
+Salir? (responda "Si" or "No")
+si
+**************************************************************************************************
+                            BIENVENIDO AL SISTEMA DE LA ASEGURADORA GENERAL
+**************************************************************************************************
+Agente: Esta interesado en informacion de seguro para vehiculo? (responda "Si" o "No")
+si
+Agente: Esta interesado en el plan particular del seguro vehicular? (responda "Si" o "No")
+si
+Agente: El plan vehicular particular es para un vehiculo personal? (responda "Si" o "No")
+si
+Agente: Desea el precio en cuotas del seguro vehicular particular para vehiculo personal? (responda "Si" o "No")
+si
+El costo del seguro vehicular particular de vehiculo personal en cuotas es de Q250.00 por 12 meses(Q3000.00 anuales)
+Salir? (responda "Si" or "No")
+no
+**************************************************************************************************
+                            BIENVENIDO AL SISTEMA DE LA ASEGURADORA GENERAL
+**************************************************************************************************
+Agente: Esta interesado en informacion de seguro para vehiculo? (responda "Si" o "No")
+si
+Agente: Esta interesado en el plan particular del seguro vehicular? (responda "Si" o "No")
+si
+Agente: El plan vehicular particular es para un vehiculo personal? (responda "Si" o "No")
+si
+Agente: Desea el precio en cuotas del seguro vehicular particular para vehiculo personal? (responda "Si" o "No")
+no
+El costo del seguro vehicular particular de vehiculo personal al contado es de Q2850.00
+Salir? (responda "Si" or "No")
+no
+**************************************************************************************************
+                            BIENVENIDO AL SISTEMA DE LA ASEGURADORA GENERAL
+**************************************************************************************************
+Agente: Esta interesado en informacion de seguro para vehiculo? (responda "Si" o "No")
+si
+Agente: Esta interesado en el plan particular del seguro vehicular? (responda "Si" o "No")
+si
+Agente: El plan vehicular particular es para un vehiculo personal? (responda "Si" o "No")
+no
+Agente: Desea el precio en cuotas del seguro vehicular particular de vehiculo comercial? (responda "Si" o "No")
+si
+El costo del seguro vehicular particular de vehiculo comercial en cuotas es de Q235.00 por 12 meses(Q2820.00 anuales)
+Salir? (responda "Si" or "No")
+no
+**************************************************************************************************
+                            BIENVENIDO AL SISTEMA DE LA ASEGURADORA GENERAL
+**************************************************************************************************
+Agente: Esta interesado en informacion de seguro para vehiculo? (responda "Si" o "No")
+si
+Agente: Esta interesado en el plan particular del seguro vehicular? (responda "Si" o "No")
+si
+Agente: El plan vehicular particular es para un vehiculo personal? (responda "Si" o "No")
+no
+Agente: Desea el precio en cuotas del seguro vehicular particular de vehiculo comercial? (responda "Si" o "No")
+no
+El costo del seguro vehicular particular de vehiculo comercial al contado es de Q2750.00
+Salir? (responda "Si" or "No")
+no
+**************************************************************************************************
+                            BIENVENIDO AL SISTEMA DE LA ASEGURADORA GENERAL
+**************************************************************************************************
+Agente: Esta interesado en informacion de seguro para vehiculo? (responda "Si" o "No")
+si
+Agente: Esta interesado en el plan particular del seguro vehicular? (responda "Si" o "No")
+no
+Agente: El plan vehicular empresarial es para un vehiculo personal?	 (responda "Si" o "No")
+si
+Agente: Desea el precio en cuotas del seguro vehicular empresarial para vehiculo personal? (responda "Si" o "No")
+si
+El costo del seguro vehicular particular de vehiculo personal en cuotas es de Q235.00 por 12 meses(Q2820.00 anuales)
+Salir? (responda "Si" or "No")
+no
+**************************************************************************************************
+                            BIENVENIDO AL SISTEMA DE LA ASEGURADORA GENERAL
+**************************************************************************************************
+Agente: Esta interesado en informacion de seguro para vehiculo? (responda "Si" o "No")
+si
+Agente: Esta interesado en el plan particular del seguro vehicular? (responda "Si" o "No")
+si
+Agente: El plan vehicular particular es para un vehiculo personal? (responda "Si" o "No")
+no
+Agente: Desea el precio en cuotas del seguro vehicular particular de vehiculo comercial? (responda "Si" o "No")
+no
+El costo del seguro vehicular particular de vehiculo comercial al contado es de Q2750.00
+Salir? (responda "Si" or "No")
+no
+**************************************************************************************************
+                            BIENVENIDO AL SISTEMA DE LA ASEGURADORA GENERAL
+**************************************************************************************************
+Agente: Esta interesado en informacion de seguro para vehiculo? (responda "Si" o "No")
+si
+Agente: Esta interesado en el plan particular del seguro vehicular? (responda "Si" o "No")
+no
+Agente: El plan vehicular empresarial es para un vehiculo personal?	 (responda "Si" o "No")
+no
+Agente: Desea el precio en cuotas del seguro vehicular empresarial de vehiculo comercial? (responda "Si" o "No")
+no
+El costo del seguro vehicular particular de vehiculo comercial al contado es de Q2500.00
+Salir? (responda "Si" or "No")
+no
+**************************************************************************************************
+                            BIENVENIDO AL SISTEMA DE LA ASEGURADORA GENERAL
+**************************************************************************************************
+Agente: Esta interesado en informacion de seguro para vehiculo? (responda "Si" o "No")
+si
+Agente: Esta interesado en el plan particular del seguro vehicular? (responda "Si" o "No")
+no
+Agente: El plan vehicular empresarial es para un vehiculo personal?	 (responda "Si" o "No")
+no
+Agente: Desea el precio en cuotas del seguro vehicular empresarial de vehiculo comercial? (responda "Si" o "No")
+si
+El costo del seguro vehicular particular de vehiculo comercial en cuotas es de Q225.00 por 12 meses(Q2700.00 anuales)
+Salir? (responda "Si" or "No")
+no
+**************************************************************************************************
+                            BIENVENIDO AL SISTEMA DE LA ASEGURADORA GENERAL
+**************************************************************************************************
+Agente: Esta interesado en informacion de seguro para vehiculo? (responda "Si" o "No")
+no
+Agente: Esta interesado en el plan particular del seguro medico? (responda "Si" o "No")
+si
+Agente: El plan medico particular deseado es individual?             (responda "Si" o "No")
+si
+Agente: Desea el precio en coutas del plan medico particular individual? (responda "Si" o "No")
+si
+El costo del seguro medico particular individual en cuotas es de Q350.00 por 12 meses(Q4200.00 anuales)
+Salir? (responda "Si" or "No")
+no
+**************************************************************************************************
+                            BIENVENIDO AL SISTEMA DE LA ASEGURADORA GENERAL
+**************************************************************************************************
+Agente: Esta interesado en informacion de seguro para vehiculo? (responda "Si" o "No")
+no
+Agente: Esta interesado en el plan particular del seguro medico? (responda "Si" o "No")
+si
+Agente: El plan medico particular deseado es individual?             (responda "Si" o "No")
+si
+Agente: Desea el precio en coutas del plan medico particular individual? (responda "Si" o "No")
+no
+El costo del seguro medico particular individual al contado es de Q3900.00
+Salir? (responda "Si" or "No")
+no
+**************************************************************************************************
+                            BIENVENIDO AL SISTEMA DE LA ASEGURADORA GENERAL
+**************************************************************************************************
+Agente: Esta interesado en informacion de seguro para vehiculo? (responda "Si" o "No")
+no
+Agente: Esta interesado en el plan particular del seguro medico? (responda "Si" o "No")
+si
+Agente: El plan medico particular deseado es individual?             (responda "Si" o "No")
+no
+Agente: Desea el precio en coutas del plan medico particular familiar?		 (responda "Si" o "No")
+si
+El costo del seguro medico particular familiar en cuotas es de Q600.00 por 12 meses(Q7200.00 anuales)
+Salir? (responda "Si" or "No")
+no
+**************************************************************************************************
+                            BIENVENIDO AL SISTEMA DE LA ASEGURADORA GENERAL
+**************************************************************************************************
+Agente: Esta interesado en informacion de seguro para vehiculo? (responda "Si" o "No")
+no
+Agente: Esta interesado en el plan particular del seguro medico? (responda "Si" o "No")
+si
+Agente: El plan medico particular deseado es individual?             (responda "Si" o "No")
+no
+Agente: Desea el precio en coutas del plan medico particular familiar?		 (responda "Si" o "No")
+no
+El costo del seguro medico particular familiar al contado es de Q6600.00
+Salir? (responda "Si" or "No")
+no
+**************************************************************************************************
+                            BIENVENIDO AL SISTEMA DE LA ASEGURADORA GENERAL
+**************************************************************************************************
+Agente: Esta interesado en informacion de seguro para vehiculo? (responda "Si" o "No")
+no
+Agente: Esta interesado en el plan particular del seguro medico? (responda "Si" o "No")
+no
+Error: Falta "No" en "El plan medico empresarial deseado es individual?"
+si
+Agente: El plan medico particular deseado es individual?             (responda "Si" o "No")
+si
+Agente: Desea el precio en coutas del plan medico particular individual? (responda "Si" o "No")
+si
+El costo del seguro medico particular individual en cuotas es de Q350.00 por 12 meses(Q4200.00 anuales)
+Salir? (responda "Si" or "No")
+si
